@@ -27,7 +27,7 @@ body{
 }
 .birthdaycard{
   position: relative;
-  top: 90px;
+  top: 80px;
   width: 250px;
   height: 400px;
   cursor: pointer;
